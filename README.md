@@ -1,5 +1,5 @@
-# Eldritch Board
-Eldritch's teacher bulletin board.  A rails app. 
+# Eldritch Profiles 
+Instructor profiles and directory.  A rails app.
 
 ## Setup and Running 
 
